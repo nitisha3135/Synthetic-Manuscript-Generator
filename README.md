@@ -93,10 +93,10 @@ Images per script
 
 ## Hugging Face Dataset
 
-(Add your Hugging Face Dataset URL here)
+https://huggingface.co/datasets/Nitisha31/synthetic-manuscript-generator
 
 ---
 
 ## GitHub Repository
 
-(Add your GitHub Repository URL here)
+https://github.com/nitisha3135/Synthetic-Manuscript-Generator.git
